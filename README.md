@@ -2,7 +2,8 @@
 
 <h2>Installation:</h2>
 <ul>
-<li>Clone Repo</li>
+<li>git clone https://github.com/wesamst2/meduim-clone.git</li>
+<li>cd meduim-clone</li>
 <li>composer install</li>
 <li>cp .env.example .env</li>
 <li>Set up .env file (Database)</li>
